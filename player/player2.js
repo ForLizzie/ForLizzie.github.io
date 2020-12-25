@@ -1,23 +1,23 @@
 var songs = [
 	{ 
 		title: "Die For You",
-		url('mp3/DieForYou')
+		songURL: ""
 	},
 	{ 
 		title: "Paper Rings",
-		url('mp3/PaperRings')
+		songURL: ""
 	},
 	{ 
 		title: "HEAD OVER HEELS",
-		url('mp3/HEADOVERHEELS')
+		songURL: ""
 	},
 	{ 
 		title: "Willow",
-		url('mp3/Willow')
+		songURL: ""
 	},
 	{ 
 		title: "Loverboy",
-		url('mp3/Loverboy')
+		songURL: ""
 	},
 ]
 const playerArea = document.getElementById("mediaPlayer")
