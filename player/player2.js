@@ -1,15 +1,23 @@
 var songs = [
 	{ 
-		title: "LA Chill Tour",
-		songURL: "http://quranifybackend-env.35ckeb3kuh.us-east-2.elasticbeanstalk.com/tracks/v2/5ccdb8b4ae0ef1a16196477c"
+		title: "Die For You",
+		songURL: "https://drive.google.com/file/d/1ahKYlsfZt9A5B6n5nMCosGkMJAtG752V/view?usp=sharing"
 	},
 	{ 
-		title: "This is it band",
-		songURL: "https://d34x6xks9kc6p2.cloudfront.net/8bd0ca4f-1b57-47e9-8878-516d14196d86/8bd0ca4f-1b57-47e9-8878-516d14196d86.mp3"
+		title: "Paper Rings",
+		songURL: "https://drive.google.com/file/d/1B3IJ6cpnURQOxcSbeesO4OG1hRTKiwT2/view?usp=sharing"
 	},
 	{ 
-		title: "LA Fusion Jam",
-		songURL: "https://d34x6xks9kc6p2.cloudfront.net/0024ada8-e1c3-4d75-a2df-d19ea5eb6c79/0024ada8-e1c3-4d75-a2df-d19ea5eb6c79.mp3"
+		title: "HEAD OVER HEELS",
+		songURL: "https://drive.google.com/file/d/1oz7_11f8p0GAsfbLzC6e6pm7_DRoMwAX/view?usp=sharing"
+	},
+	{ 
+		title: "Willow",
+		songURL: "https://drive.google.com/file/d/1bVFr-3xnqRyDEN5Avo-OlxyAMiln-0Zo/view?usp=sharing"
+	},
+	{ 
+		title: "Loverboy",
+		songURL: "https://drive.google.com/file/d/1VcSKYIbGfk-oY-1c11YWLS-_2ePD5Mny/view?usp=sharing"
 	},
 ]
 const playerArea = document.getElementById("mediaPlayer")
