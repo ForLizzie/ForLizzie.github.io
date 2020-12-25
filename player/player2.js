@@ -1,23 +1,23 @@
 var songs = [
 	{ 
 		title: "Die For You",
-		songURL: "https://drive.google.com/file/d/1ahKYlsfZt9A5B6n5nMCosGkMJAtG752V/view?usp=sharing"
+		songURL: "mp3/DieForYou"
 	},
 	{ 
 		title: "Paper Rings",
-		songURL: "https://drive.google.com/file/d/1B3IJ6cpnURQOxcSbeesO4OG1hRTKiwT2/view?usp=sharing"
+		songURL: "mp3/PaperRings"
 	},
 	{ 
 		title: "HEAD OVER HEELS",
-		songURL: "https://drive.google.com/file/d/1oz7_11f8p0GAsfbLzC6e6pm7_DRoMwAX/view?usp=sharing"
+		songURL: "mp3/HEADOVERHEELS"
 	},
 	{ 
 		title: "Willow",
-		songURL: "https://drive.google.com/file/d/1bVFr-3xnqRyDEN5Avo-OlxyAMiln-0Zo/view?usp=sharing"
+		songURL: "mp3/Willow"
 	},
 	{ 
 		title: "Loverboy",
-		songURL: "https://drive.google.com/file/d/1VcSKYIbGfk-oY-1c11YWLS-_2ePD5Mny/view?usp=sharing"
+		songURL: "mp3/Loverboy"
 	},
 ]
 const playerArea = document.getElementById("mediaPlayer")
